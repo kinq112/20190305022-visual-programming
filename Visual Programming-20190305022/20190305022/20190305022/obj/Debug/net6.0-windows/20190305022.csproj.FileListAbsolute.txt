@@ -1,0 +1,54 @@
+C:\Users\MONSTER\source\repos\20190305022\20190305022\obj\Debug\net6.0-windows\20190305022.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\20190305022\20190305022\obj\Debug\net6.0-windows\_20190305022.Form1.resources
+C:\Users\MONSTER\source\repos\20190305022\20190305022\obj\Debug\net6.0-windows\20190305022.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\20190305022\20190305022\obj\Debug\net6.0-windows\20190305022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\source\repos\20190305022\20190305022\obj\Debug\net6.0-windows\20190305022.AssemblyInfoInputs.cache
+C:\Users\MONSTER\source\repos\20190305022\20190305022\obj\Debug\net6.0-windows\20190305022.AssemblyInfo.cs
+C:\Users\MONSTER\source\repos\20190305022\20190305022\obj\Debug\net6.0-windows\20190305022.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\20190305022\20190305022\bin\Debug\net6.0-windows\20190305022.exe
+C:\Users\MONSTER\source\repos\20190305022\20190305022\bin\Debug\net6.0-windows\20190305022.deps.json
+C:\Users\MONSTER\source\repos\20190305022\20190305022\bin\Debug\net6.0-windows\20190305022.runtimeconfig.json
+C:\Users\MONSTER\source\repos\20190305022\20190305022\bin\Debug\net6.0-windows\20190305022.dll
+C:\Users\MONSTER\source\repos\20190305022\20190305022\bin\Debug\net6.0-windows\20190305022.pdb
+C:\Users\MONSTER\source\repos\20190305022\20190305022\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\MONSTER\source\repos\20190305022\20190305022\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MONSTER\source\repos\20190305022\20190305022\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MONSTER\source\repos\20190305022\20190305022\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MONSTER\source\repos\20190305022\20190305022\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MONSTER\source\repos\20190305022\20190305022\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MONSTER\source\repos\20190305022\20190305022\obj\Debug\net6.0-windows\20190305022.csproj.CopyComplete
+C:\Users\MONSTER\source\repos\20190305022\20190305022\obj\Debug\net6.0-windows\20190305022.dll
+C:\Users\MONSTER\source\repos\20190305022\20190305022\obj\Debug\net6.0-windows\refint\20190305022.dll
+C:\Users\MONSTER\source\repos\20190305022\20190305022\obj\Debug\net6.0-windows\20190305022.pdb
+C:\Users\MONSTER\source\repos\20190305022\20190305022\obj\Debug\net6.0-windows\20190305022.genruntimeconfig.cache
+C:\Users\MONSTER\source\repos\20190305022\20190305022\obj\Debug\net6.0-windows\ref\20190305022.dll
+C:\Users\MONSTER\source\repos\20190305022\20190305022\obj\Debug\net6.0-windows\_20190305022.Buy.resources
+C:\Users\MONSTER\source\repos\20190305022\20190305022\obj\Debug\net6.0-windows\_20190305022.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\20190305022\20190305022\obj\Debug\net6.0-windows\_20190305022.Form3.resources
+C:\Users\MONSTER\Desktop\visual programming\Visual Programming-20190305022\20190305022\20190305022\bin\Debug\net6.0-windows\20190305022.exe
+C:\Users\MONSTER\Desktop\visual programming\Visual Programming-20190305022\20190305022\20190305022\bin\Debug\net6.0-windows\20190305022.deps.json
+C:\Users\MONSTER\Desktop\visual programming\Visual Programming-20190305022\20190305022\20190305022\bin\Debug\net6.0-windows\20190305022.runtimeconfig.json
+C:\Users\MONSTER\Desktop\visual programming\Visual Programming-20190305022\20190305022\20190305022\bin\Debug\net6.0-windows\20190305022.dll
+C:\Users\MONSTER\Desktop\visual programming\Visual Programming-20190305022\20190305022\20190305022\bin\Debug\net6.0-windows\20190305022.pdb
+C:\Users\MONSTER\Desktop\visual programming\Visual Programming-20190305022\20190305022\20190305022\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\MONSTER\Desktop\visual programming\Visual Programming-20190305022\20190305022\20190305022\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MONSTER\Desktop\visual programming\Visual Programming-20190305022\20190305022\20190305022\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MONSTER\Desktop\visual programming\Visual Programming-20190305022\20190305022\20190305022\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MONSTER\Desktop\visual programming\Visual Programming-20190305022\20190305022\20190305022\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MONSTER\Desktop\visual programming\Visual Programming-20190305022\20190305022\20190305022\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MONSTER\Desktop\visual programming\Visual Programming-20190305022\20190305022\20190305022\obj\Debug\net6.0-windows\20190305022.csproj.AssemblyReference.cache
+C:\Users\MONSTER\Desktop\visual programming\Visual Programming-20190305022\20190305022\20190305022\obj\Debug\net6.0-windows\_20190305022.Form1.resources
+C:\Users\MONSTER\Desktop\visual programming\Visual Programming-20190305022\20190305022\20190305022\obj\Debug\net6.0-windows\_20190305022.Buy.resources
+C:\Users\MONSTER\Desktop\visual programming\Visual Programming-20190305022\20190305022\20190305022\obj\Debug\net6.0-windows\_20190305022.Form3.resources
+C:\Users\MONSTER\Desktop\visual programming\Visual Programming-20190305022\20190305022\20190305022\obj\Debug\net6.0-windows\_20190305022.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\visual programming\Visual Programming-20190305022\20190305022\20190305022\obj\Debug\net6.0-windows\20190305022.csproj.GenerateResource.cache
+C:\Users\MONSTER\Desktop\visual programming\Visual Programming-20190305022\20190305022\20190305022\obj\Debug\net6.0-windows\20190305022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\Desktop\visual programming\Visual Programming-20190305022\20190305022\20190305022\obj\Debug\net6.0-windows\20190305022.AssemblyInfoInputs.cache
+C:\Users\MONSTER\Desktop\visual programming\Visual Programming-20190305022\20190305022\20190305022\obj\Debug\net6.0-windows\20190305022.AssemblyInfo.cs
+C:\Users\MONSTER\Desktop\visual programming\Visual Programming-20190305022\20190305022\20190305022\obj\Debug\net6.0-windows\20190305022.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\Desktop\visual programming\Visual Programming-20190305022\20190305022\20190305022\obj\Debug\net6.0-windows\20190305022.csproj.CopyComplete
+C:\Users\MONSTER\Desktop\visual programming\Visual Programming-20190305022\20190305022\20190305022\obj\Debug\net6.0-windows\20190305022.dll
+C:\Users\MONSTER\Desktop\visual programming\Visual Programming-20190305022\20190305022\20190305022\obj\Debug\net6.0-windows\refint\20190305022.dll
+C:\Users\MONSTER\Desktop\visual programming\Visual Programming-20190305022\20190305022\20190305022\obj\Debug\net6.0-windows\20190305022.pdb
+C:\Users\MONSTER\Desktop\visual programming\Visual Programming-20190305022\20190305022\20190305022\obj\Debug\net6.0-windows\20190305022.genruntimeconfig.cache
+C:\Users\MONSTER\Desktop\visual programming\Visual Programming-20190305022\20190305022\20190305022\obj\Debug\net6.0-windows\ref\20190305022.dll
